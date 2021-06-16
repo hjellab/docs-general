@@ -82,9 +82,12 @@ Not all Anypoint Platform components are supported in all cloud environments. Th
 | Customer-hosted runtimes | Y | Y | Y | Y
 |===
 
+
 == Runtime Plane Hosting Options
 
 MuleSoft provides three different options for hosting the Anypoint Platform runtime plane:
+
+// tag::content[]
 
 * CloudHub
 +
@@ -146,6 +149,8 @@ The following table lists the runtime plane options that are supported in each c
 | Standalone runtimes | Y | Y | Y | Y
 | Runtime Fabric | Y | Y | N | N
 |===
+
+// end::content[]
 
 == See Also
 
