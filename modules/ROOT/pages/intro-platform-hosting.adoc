@@ -90,7 +90,7 @@ MuleSoft provides three different options for hosting the Anypoint Platform runt
 +
 CloudHub is MuleSoft's cloud-based environment for hosting the Mule runtime server and related services. CloudHub enables you to deploy an API or a Mule application on a platform that’s managed by MuleSoft.
 +
-CloudHub also provides high availability, clustering and failover of your APIs and Mule applications and performs load balancing for them. See xref:runtime-manager::cloudhub.adoc[CloudHub] for more information.
+CloudHub also provides high availability and failover of your APIs and Mule applications and performs load balancing for them. See xref:runtime-manager::cloudhub.adoc[CloudHub] for more information.
 +
 CloudHub can only be managed only by version of the cloud control plane that exists in the same environment (US cloud, EU cloud, or MuleSoft Government Cloud).
 
